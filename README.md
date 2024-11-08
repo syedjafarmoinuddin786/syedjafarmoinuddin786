@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @syedjafarmoinuddin786
-<h1 align="center">Hi 👋, I'm Syed Jafar Moinuddin Qadri</h1>
+<h1 align="center">Hi 👋, I'm Sayyid Ja’far Muʿīn al-Dīn Qadri</h1>
 <h3 align="center">A passionate Computer Science Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedjafarmoinuddin786&label=Profile%20views&color=0e75b6&style=flat" alt="syedjafarmoinuddin786" /> </p>
