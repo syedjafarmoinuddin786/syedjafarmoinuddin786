@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@moin2604" target="blank"><img src="https://img.shields.io/twitter/follow/@moin2604?logo=twitter&style=for-the-badge" alt="@moin2604" /></a> </p>
 
-- 🌱 I’m currently learning **Java,Frontend Web Development**
+- 🌱 I’m currently learning **Java+DSA , CyberSecurity Fundamentals**
 
 - 👨‍💻 All of my projects are available at [https://github.com/syedjafarmoinuddin786](https://github.com/syedjafarmoinuddin786)
 
